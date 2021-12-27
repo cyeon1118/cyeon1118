@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there👋
 
 <!--
 **cyeon1118/cyeon1118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Chaeyeon&fontSize=70&animation=twinkling&fontcolor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Chaeyeon&fontSize=70&animation=twinkling&fontcolor=ffffff)
 
-<p align="center">🍒🍒🍒</p>
+<p align="left">❤️‍🔥❤️‍🔥❤️‍🔥</p>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="left">🍒 Tech Stack 🍒</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<p align="left"> Techs that I've used at least once </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white"/></a>&nbsp
@@ -34,12 +34,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp -->
 
-<h3 align="center">🛠 Tools & Platforms 🛠</h3>
+<h3 align="left">🍒 Tools & Platforms 🍒</h3>
 
 
-<p align="center"> Tools and Platforms that I've used at least once </p>
+<p align="left"> Tools and Platforms that I've used at least once </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>&nbsp 
