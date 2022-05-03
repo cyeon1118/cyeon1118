@@ -1,5 +1,3 @@
-### Hi there👋
-
 <!--
 **cyeon1118/cyeon1118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,15 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Chaeyeon&fontSize=70&animation=twinkling&fontcolor=ffffff)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=chae%20yeon&fontColor=auto&fontSize=65&animation=twinkling&fontAlignY=42&desc=Hi%20there!&descAlignY=61&descAlign=59" />
+</p>
 
-<p align="left">❤️‍🔥❤️‍🔥❤️‍🔥</p>
+<p align="center">❤️‍🔥❤️‍🔥❤️‍🔥</p>
+<h3 align="center">🍒 Tech Stack 🍒</h3>
 
-<h3 align="left">🍒 Tech Stack 🍒</h3>
+<p align="center"> Techs that I've used at least once </p>
 
-<p align="left"> Techs that I've used at least once </p>
-
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white"/></a>&nbsp
@@ -34,12 +33,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp -->
 
-<h3 align="left">🍒 Tools & Platforms 🍒</h3>
+<h3 align="center">🍒 Tools & Platforms 🍒</h3>
 
 
-<p align="left"> Tools and Platforms that I've used at least once </p>
+<p align="center"> Tools and Platforms that I've used at least once </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/></a>&nbsp 
