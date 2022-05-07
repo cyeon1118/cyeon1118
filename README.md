@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=chae%20yeon&fontColor=auto&fontSize=65&animation=twinkling&fontAlignY=42&desc=Hi%20there!&descAlignY=61&descAlign=59" />
-</p>
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=chae%20yeon&fontColor=auto&fontSize=65&animation=twinkling&fontAlignY=42&desc=Hi%20there!&descAlignY=61&descAlign=59" />
+  
   <h3 align="center">🍒 Tech Stack 🍒</h3>
 
   <p align="center"> Techs that I've used at least once </p>
@@ -51,7 +49,7 @@ Here are some ideas to get you started:
   
   <p align="center">❤️‍🔥❤️‍🔥❤️‍🔥</p>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcyeon1118%2Falgorithm&count_bg=%23DC6EE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcyeon1118%2Falgorithm&count_bg=%23AA86E0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=h_chaenn)](https://solved.ac/h_chaenn)
   
