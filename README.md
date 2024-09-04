@@ -13,55 +13,56 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=chae%20yeon&fontColor=auto&fontSize=65&animation=twinkling&fontAlignY=42&desc=Hi%20there!&descAlignY=61&descAlign=59" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=chae%20yeon&fontColor=auto&fontSize=65&animation=twinkling&fontAlignY=42&desc=Hi%20there!&descAlignY=61&descAlign=59" /> -->
+##  한채연_Han Chae Yeon
+👩🏻‍💻 Backend Developer  
+🏫 Seoul Women's University of Korea.  
+📚 Dept. of Software Convergence & Information Security
+
+## 🍒 Tech Stack 🍒
+### Language
+<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
+
+### Backend
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=Spring%20Security&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white"/>
+
+### AWS, CI/CD
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=Amazon%20RDS&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=Amazon%20S3&logoColor=white"/>
+<br>
+<img src ="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/> <img src ="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+
+### Frontend
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black"/> <img src="https://img.shields.io/badge/react.js-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/> 
+
+### Collaboration Tools
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white"/> 
+
+<br>
+
+## 🎖️ Certificates 🎖️
+- ADsP (24.09.06)
+- 정보처리기사 (24.06.18) <br>
+- AWS Certified Solutions Architect - Associate (23.03.30) <br>
+- AWS Certified Cloud Practitioner (23.02.28) <br>
+<br>
+  <a href="https://www.credly.com/badges/fc500998-5b25-4344-b258-f52050f770b1/public_url"><img width=150 src="https://github.com/cyeon1118/cyeon1118/assets/78338944/d9abd2f7-0600-46b4-88c6-cc61eae2ae3b"/></a>
+  <a href="https://www.credly.com/badges/9401ddac-88c4-4904-9306-651abbcb713a/public_url"><img width=150 src="https://github.com/cyeon1118/cyeon1118/assets/78338944/c61f15a4-afa2-424c-b937-fe30c8550acf"/></a>
+
+<br><br>
+
+## etc
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcyeon1118%2Falgorithm&count_bg=%23AA86E0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Chaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyeon1118&theme=buefy&show_icons=true)](https://github.com/cyeon1118/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyeon1118&layout=compact&hide=jupyter%20notebook&theme=transparent&show_icons=true&line_height=18&title_color=F8418B&bord3D3D&text_color=8C9196)](https://github.com/cyeon1118/github-readme-stats)
+
+
   
-  <h3 align="center">🍒 Tech Stack 🍒</h3>
-
-  <p align="center"> Techs that I've used at least once </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-  </p>
-
-<!--   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp -->
-
-  <h3 align="center">🍒 Tools & Platforms 🍒</h3>
-
-
-  <p align="center"> Tools and Platforms that I've used at least once </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></a>&nbsp
-
-  </p>
-  
-  ##
-  
-  <p align="center">❤️‍🔥❤️‍🔥❤️‍🔥</p>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcyeon1118%2Falgorithm&count_bg=%23AA86E0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=h_chaenn)](https://solved.ac/h_chaenn)
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyeon1118&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-  <br>
 
   <!-- 
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyeon1118&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=h_chaenn)](https://solved.ac/h_chaenn)
   ![trophy](https://github-profile-trophy.vercel.app/?username=cyeon1118)
-
+  
    -->
 </div>
