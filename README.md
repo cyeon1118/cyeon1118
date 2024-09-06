@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=chae%20yeon&fontColor=auto&fontSize=65&animation=twinkling&fontAlignY=42&desc=Hi%20there!&descAlignY=61&descAlign=59" /> -->
-##  한채연_Han Chae Yeon
+##  Hi, there!!
 👩🏻‍💻 Backend Developer  
-🏫 Seoul Women's University of Korea.  
-📚 Dept. of Software Convergence & Information Security
 
 ## 🍒 Tech Stack 🍒
 ### Language
@@ -54,7 +52,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcyeon1118%2Falgorithm&count_bg=%23AA86E0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Chaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyeon1118&theme=buefy&show_icons=true)](https://github.com/cyeon1118/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyeon1118&layout=compact&hide=jupyter%20notebook&theme=transparent&show_icons=true&line_height=18&title_color=F8418B&bord3D3D&text_color=8C9196)](https://github.com/cyeon1118/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyeon1118&layout=compact&hide=jupyter%20notebook&theme=transparent&show_icons=true&line_height=18&title_color=F8418B&bord3D3D&text_color=8C9196)](https://github.com/cyeon1118/github-readme-stats)
 
 
   
