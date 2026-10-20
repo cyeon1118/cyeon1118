@@ -38,10 +38,11 @@ Here are some ideas to get you started:
 <br>
 
 ## 🎖️ Certificates 🎖️
+- AWS Certified Solutions Architect - Associate (23.03.30, 26.03.17) <br>
+- AWS Certified Cloud Practitioner (23.02.28, 26.03.17) <br>
+- SQLD (24.09.20)
 - ADsP (24.09.06)
 - 정보처리기사 (24.06.18) <br>
-- AWS Certified Solutions Architect - Associate (23.03.30) <br>
-- AWS Certified Cloud Practitioner (23.02.28) <br>
 <br>
   <a href="https://www.credly.com/badges/fc500998-5b25-4344-b258-f52050f770b1/public_url"><img width=150 src="https://github.com/cyeon1118/cyeon1118/assets/78338944/d9abd2f7-0600-46b4-88c6-cc61eae2ae3b"/></a>
   <a href="https://www.credly.com/badges/9401ddac-88c4-4904-9306-651abbcb713a/public_url"><img width=150 src="https://github.com/cyeon1118/cyeon1118/assets/78338944/c61f15a4-afa2-424c-b937-fe30c8550acf"/></a>
@@ -50,7 +51,7 @@ Here are some ideas to get you started:
 
 ## etc
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcyeon1118%2Falgorithm&count_bg=%23AA86E0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cyeon1118)](https://solved.ac/cyeon1118)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyeon1118&layout=compact&hide=jupyter%20notebook&theme=transparent&show_icons=true&line_height=18&title_color=F8418B&bord3D3D&text_color=8C9196)](https://github.com/cyeon1118/github-readme-stats)
 
